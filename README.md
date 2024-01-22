@@ -60,11 +60,11 @@ Im Projekt wurden neue generische Modelle mit verschiedenen OCR-Engines trainier
 #### 4.1. Generische OCR/HTR-Modelle
 - Weil, S. (2021). Tesseract OCR models for historic prints based on Latin script.
 Zenodo. https://doi.org/10.5281/zenodo.10125246
-- Weil, S. (2023). Fraktur model trained from enhanced Austrian Newspapers da-taset.
+- Weil, S. (2023). Fraktur model trained from enhanced Austrian Newspapers dataset.
 Zenodo. https://doi.org/10.5281/zenodo.6891851
-- Weil, S. (2023). HTR model for German manuscripts trained from several da-tasets.
+- Weil, S. (2023). HTR model for German manuscripts trained from several datasets.
 Zenodo. https://doi.org/10.5281/zenodo.7933463
-- Weil, S. (2023). OCR model for German prints trained from several datasets.
+- Weil, S., Kamlah, J., & Schmidt, T. (2023). OCR model for German prints trained from several datasets.
 Zenodo. https://doi.org/10.5281/zenodo.10519595
 
 #### 4.2. Modelle zum GT-Korpus *AustrianNewspapers*
