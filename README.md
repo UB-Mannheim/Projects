@@ -57,7 +57,7 @@ Die im Projekt erstellten und überarbeiteten Ground-Truth-Korpora wurden auf Ba
 ### 4. OCR/HTR-Modelle
 Im Projekt wurden neue generische Modelle mit verschiedenen OCR-Engines trainiert.
 
-#### Generische OCR/HTR-Modelle
+#### 4.1. Generische OCR/HTR-Modelle
 - Weil, S. (2021). Tesseract OCR models for historic prints based on Latin script.
 Zenodo. https://doi.org/10.5281/zenodo.10125246
 - Weil, S. (2023). Fraktur model trained from enhanced Austrian Newspapers da-taset.
@@ -67,26 +67,26 @@ Zenodo. https://doi.org/10.5281/zenodo.7933463
 - Weil, S. (2023). OCR model for German prints trained from several datasets.
 Zenodo. https://doi.org/10.5281/zenodo.10519595
 
-#### Modelle zum GT-Korpus *AustrianNewspapers*
+#### 4.2. Modelle zum GT-Korpus *AustrianNewspapers*
 - [Tesseract AustrianNewspapers-20230426](https://ub-backup.bib.uni-mannheim.de/~stweil/tesstrain/calamari/AustrianNewspapers-20230426/)
 - [Tesseract AustrianNewspapers-20230502](https://ub-backup.bib.uni-mannheim.de/~stweil/tesstrain/tesseract/austriannewspapers/20230502/)
 - [Kraken AustrianNewspapers](https://ub-backup.bib.uni-mannheim.de/~stweil/tesstrain/kraken/austriannewspapers/)
 
-#### Modelle zum GT-Korpus *Reichsanzeiger-GT*
+#### 4.3. Modelle zum GT-Korpus *Reichsanzeiger-GT*
 - [Kraken Reichsanzeiger-GT](https://ub-backup.bib.uni-mannheim.de/~stweil/tesstrain/kraken/reichsanzeiger-gt/)
 
-#### Weitere Modelle
+#### 4.4. Weitere Modelle
 - [Tesseract-Modelle auf Basis der digi-gt](https://ub-backup.bib.uni-mannheim.de/~stweil/tesstrain/kraken/digi-gt/)
 - [Tesseract-Modelle auf Basis der digitue-gt](https://ub-backup.bib.uni-mannheim.de/~stweil/tesstrain/kraken/digitue-gt/)
 - [Calamari-Modelle](https://ub-backup.bib.uni-mannheim.de/~stweil/tesstrain/calamari/)
 
-### Publikationen, Präsentationen und Arbeitspapier
-#### Präsentationen
+### 5. Publikationen, Präsentationen und Arbeitspapier
+#### 5.1. Präsentationen
 - Kamlah, J., & Schmidt, T. (2023). Hands-on Lab Ground Truth-Erstellung und Modelltraining mit eScriptorium, 111. BiblioCon Hannover 2023
 - Kamlah, J., & Schmidt, T. (2022). Der Weg zum nutzbaren Volltext. Werkspezifisches Trai-ning als Baustein der OCR-Volltexterkennung für Alte Drucke. 8. Bibliothekskongess Leipzig 2022: #FreiräumeSchaffen, BID, Leipzig, Germany. https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/17861
 - Kamlah, J. & Schmidt, T. (2022). Finetune your OCR! Improving automated text recognition for early printed works by finetuning existing Tesseract models. ELAG 2022, Riga, Latvia. https://dom.lndb.lv/data/obj/file/33561874.pdf
 
-#### Arbeitspapiere
+#### 5.2. Arbeitspapiere
 - Kamlah, J., & Schmidt, T. (2023). Transkriptionsregeln und Guidelines zur Layoutbearbeitung im DFG-Projekt "Workflow für werkspezifisches Training auf Basis generischer Modelle mit OCR-D sowie Ground-Truth-Aufwertung". Zenodo. https://doi.org/10.5281/zenodo.10203335
 
 -------------------------
