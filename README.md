@@ -20,15 +20,12 @@ OCR-D wird durch die [Deutsche Forschungsgemeinschaft (DFG)](https://www.dfg.de/
 ### 2. Ground-Truth-Korpora
 Die im Projekt erstellten und überarbeiteten Ground-Truth-Korpora wurden auf Basis der [OCR-D GT Guidelines](https://ocr-d.de/de/gt-guidelines/trans/) im [Level 2](https://ocr-d.de/de/gt-guidelines/trans/level_2_2.html) erstellt.
 
-#### 2.1. Ground-Truth-Korpora auf Basis von VD-Drucken
 - [GT4HistOCR](https://code.bib.uni-mannheim.de/ocr-d/GT4HistOCR)
 - [digi-gt](https://github.com/UB-Mannheim/digi-gt)
 - [Fibeln](https://github.com/UB-Mannheim/Fibeln)
 - [digitue-gt](https://github.com/UB-Mannheim/digitue-gt)
 - [Weisthuemer](https://github.com/UB-Mannheim/Weisthuemer)
 - [dach-gt](https://github.com/UB-Mannheim/dach-gt)
-
-#### 2.2. Ground-Truth-Korpora auf Basis historischer Zeitungen und Amtsschriften
 - [reichsanzeiger-gt](https://github.com/UB-Mannheim/reichsanzeiger-gt)
   - Schmidt, T., Kamlah, J., Weil, S., & Shigapov, R. (2023). UB-Mannheim/reichsanzeiger-gt: 1.1.0 - Fix for baselines and some typos (1.1.0). Zenodo. [https://doi.org/10.5281/zenodo.10144095](https://doi.org/10.5281/zenodo.10144095)
 - [hkb-gt](https://github.com/UB-Mannheim/hkb-gt)
