@@ -9,7 +9,7 @@ OCR-D wird durch die [Deutsche Forschungsgemeinschaft (DFG)](https://www.dfg.de/
 ## Workflow für werk­spezifisches Training auf Basis generischer Modelle mit OCR-D sowie Ground-Truth-Aufwertung
 **Modulprojekt | Laufzeit: 2021–2023**
 
-*[WIP]* In diesem Modulprojekt wurden sowohl Ground-Truth-Korpora als auch softwaretechnische Werkzeuge zur bearbeitung von Ground Truth erstellt. Darüber hinaus wurde eine werkspezifischer Trainingsworkflow auf Basis von eScriptorium erstellt.
+In diesem Modulprojekt wurden sowohl Ground-Truth-Korpora als auch softwaretechnische Werkzeuge zur bearbeitung von Ground Truth erstellt. Darüber hinaus wurde eine werkspezifischer Trainingsworkflow auf Basis von eScriptorium erstellt.
 
 ### 1. Software
 - [PagePlus](https://github.com/UB-Mannheim/PagePlus)
